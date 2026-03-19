@@ -172,7 +172,7 @@ export default function Home() {
               color: "#F5F0E8",
             }}
           >
-            Nelson Ripper
+            Nelson Rippes
           </h1>
           <p
             style={{
@@ -243,7 +243,7 @@ export default function Home() {
             />
             <Image
               src="/images/nelson-portrait.png"
-              alt="Nelson Ripper - TecnoBeer"
+              alt="Nelson Rippes - TecnoBeer"
               width={500}
               height={500}
               style={{ borderRadius: "10px", width: "100%", height: "auto", position: "relative" }}
@@ -264,7 +264,7 @@ export default function Home() {
               Bienvenido a <span style={{ color: "#D4860A" }}>TecnoBeer</span>
             </h2>
             <p style={{ color: "#bbb", lineHeight: 1.8, marginBottom: "32px", fontSize: "1.05rem" }}>
-              Soy Nelson Ripper, cervecero artesanal apasionado por crear experiencias únicas en cada sorbo.
+              Soy Nelson Rippes, cervecero artesanal apasionado por crear experiencias únicas en cada sorbo.
               Combino tradición, técnica y creatividad para elaborar cervezas que cuentan historias. Cada receta
               es un experimento, cada lote es una obra.
             </p>
@@ -416,7 +416,7 @@ export default function Home() {
           <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "24px", flexWrap: "wrap" }}>
             <Image
               src="/images/char_nelson.png"
-              alt="Nelson Ripper — Street Fighter Edition"
+              alt="Nelson Rippes — Street Fighter Edition"
               width={80}
               height={80}
               className="pixel-art"
@@ -450,7 +450,7 @@ export default function Home() {
           </p>
           <div style={{ display: "flex", flexDirection: "column", gap: "20px", alignItems: "center" }}>
             <a
-              href="mailto:nelson.ripper@tecnobeer.cl"
+              href="mailto:nelson.rippes@tecnobeer.cl"
               style={{
                 display: "flex",
                 alignItems: "center",
@@ -474,7 +474,7 @@ export default function Home() {
                 e.currentTarget.style.color = "#ccc";
               }}
             >
-              📧 nelson.ripper@tecnobeer.cl
+              📧 nelson.rippes@tecnobeer.cl
             </a>
             <a
               href="https://instagram.com/tecnobeer"
@@ -519,7 +519,7 @@ export default function Home() {
         }}
       >
         <p style={{ color: "#555", fontSize: "0.9rem" }}>
-          © 2026 <span style={{ color: "#D4860A" }}>TecnoBeer</span> · Nelson Ripper · Hecho con ❤️ y 🍺
+          © 2026 <span style={{ color: "#D4860A" }}>TecnoBeer</span> · Nelson Rippes · Hecho con ❤️ y 🍺
         </p>
       </footer>
     </main>

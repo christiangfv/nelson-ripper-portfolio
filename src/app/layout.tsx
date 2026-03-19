@@ -2,11 +2,11 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Nelson Ripper · TecnoBeer",
-  description: "Portafolio de Nelson Ripper — artesano cervecero apasionado por crear experiencias únicas en cada sorbo.",
-  keywords: ["cerveza artesanal", "craft beer", "TecnoBeer", "Nelson Ripper", "Chile"],
+  title: "Nelson Rippes · TecnoBeer",
+  description: "Portafolio de Nelson Rippes — artesano cervecero apasionado por crear experiencias únicas en cada sorbo.",
+  keywords: ["cerveza artesanal", "craft beer", "TecnoBeer", "Nelson Rippes", "Chile"],
   openGraph: {
-    title: "Nelson Ripper · TecnoBeer",
+    title: "Nelson Rippes · TecnoBeer",
     description: "Artesano cervecero. Cada cerveza cuenta una historia.",
     images: ["/images/hero-beer.png"],
   },

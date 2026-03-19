@@ -1,6 +1,6 @@
-# 🍺 Nelson Ripper · TecnoBeer
+# 🍺 Nelson Rippes · TecnoBeer
 
-> **Portafolio personal de Nelson Ripper** — artesano cervecero y fundador de TecnoBeer.  
+> **Portafolio personal de Nelson Rippes** — artesano cervecero y fundador de TecnoBeer.  
 > Donde la ciencia se convierte en sabor.
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)](https://nextjs.org/)
@@ -112,7 +112,7 @@ nelson-ripper-portfolio/
 
 ---
 
-## 👤 Sobre Nelson Ripper
+## 👤 Sobre Nelson Rippes
 
 Cervecero artesanal chileno, fundador de **TecnoBeer**. Apasionado por crear experiencias únicas en cada sorbo, combinando técnica científica con tradición artesanal. Más de 5 años elaborando recetas únicas: IPA Tropical, Amber Ale, Stout Oscura y Wheat Beer.
 
